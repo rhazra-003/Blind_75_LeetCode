@@ -126,3 +126,5 @@
 - [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
 ### Count: 12/75
+
+**LeetCode Profile -** [Ridam Hazra](https://leetcode.com/rhazra0602/)
