@@ -7,7 +7,7 @@
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
@@ -19,9 +19,9 @@
 
 ## Binary
 
-- [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+- [x] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 - [x] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [x] [Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [x] [Missing Number](https://leetcode.com/problems/missing-number/)
 - [x] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
@@ -29,8 +29,8 @@
 
 ## Dynamic Programming
 
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
+- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [x] [Coin Change](https://leetcode.com/problems/coin-change/)
 - [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [x] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [ ] [Word Break Problem](https://leetcode.com/problems/word-break/)
@@ -88,7 +88,7 @@
 
 ## String
 
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
@@ -96,7 +96,7 @@
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
-- [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+- [x] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 - [ ] [Encode and Decode Strings (Leetcode Premium)](https://leetcode.com/problems/encode-and-decode-strings/)
 
 ---
@@ -125,7 +125,7 @@
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
-### Count: 23/75
+### Count: 30/75
 
 **LeetCode Profile -** [Ridam Hazra](https://leetcode.com/rhazra0602/)
 
