@@ -31,7 +31,7 @@
 
 - [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [x] [Coin Change](https://leetcode.com/problems/coin-change/)
-- [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [x] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [ ] [Word Break Problem](https://leetcode.com/problems/word-break/)
 - [ ] [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
@@ -125,7 +125,7 @@
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
-### Count: 30/75
+### Count: 31/75
 
 **LeetCode Profile -** [Ridam Hazra](https://leetcode.com/rhazra0602/)
 
