@@ -34,7 +34,7 @@
 - [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [x] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [ ] [Word Break Problem](https://leetcode.com/problems/word-break/)
-- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
+- [x] [Combination Sum](https://leetcode.com/problems/combination-sum-iv/)
 - [x] [House Robber](https://leetcode.com/problems/house-robber/)
 - [x] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)
@@ -89,10 +89,10 @@
 ## String
 
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
-- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [x] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [x] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
@@ -125,7 +125,7 @@
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
-### Count: 31/75
+### Count: 35/75
 
 **LeetCode Profile -** [Ridam Hazra](https://leetcode.com/rhazra0602/)
 
